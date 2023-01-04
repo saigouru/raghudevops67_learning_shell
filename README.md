@@ -1,7 +1,7 @@
 # raghudevops67_learning_shell
 
 List of shell_scripting topics
-1. Shebang & comments
+1. Shebang & comments (Scripting Concept)
 2. redirectors & quotes(Linux Concept)
 3. print(command)
 4. variable (scripting concept)
